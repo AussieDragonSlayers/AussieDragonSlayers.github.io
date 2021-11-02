@@ -106,6 +106,7 @@ var setArray = [
   "Daedric Trickery",
   "Daring Corsair",
   "Dauntless Combatant",
+  "Deadlands Demolisher",
   "Death's Wind",
   "Diamond's Victory",
   "Dragon's Appetite",
@@ -118,6 +119,7 @@ var setArray = [
   "Hist Whisperer",
   "Hunding's Rage",
   "Innate Axiom",
+  "Iron Flask",
   "Kagrenac's Hope",
   "Kvatch Gladiator",
   "Law of Julianos",
@@ -156,7 +158,8 @@ var setArray = [
   "Vastarie's Tutelage",
   "Way of the Arena",
   "Whitestrake's Retribution",
-  "Willow's Path"
+  "Willow's Path",
+  "Wretched Vitality"
 ];
 
 var styleArray = [];
@@ -225,7 +228,7 @@ styleArray.push(new Style("Outlaw", "rogue's soot"));
 styleArray.push(new Style("Pellitine", "dragonthread"));
 styleArray.push(new Style("Primal", "argentum"));
 styleArray.push(new Style("Psijic Order", "vitrified malondo"));
-styleArray.push(new Style("Pyandorean", "sea serpent hide"));
+styleArray.push(new Style("Pyandonean", "sea serpent hide"));
 styleArray.push(new Style("Pyre Watch", "consecrated myrrh"));
 styleArray.push(new Style("Ra Gada", "ancient sandstone"));
 styleArray.push(new Style("Redguard", "starmetal"));
@@ -249,7 +252,7 @@ styleArray.push(new Style("Tsaesci", "snake fang"));
 styleArray.push(new Style("Welkynar", "gryphon plume"));
 styleArray.push(new Style("Worm Cult", "desecrated grave soil"));
 styleArray.push(new Style("Xivkyn", "charcoal of remorse"));
-styleArray.push(new Style("Yokundan", "ferrous salts"));
+styleArray.push(new Style("Yokudan", "ferrous salts"));
 
 var armorTraitArray = [];
 armorTraitArray.push(new Style("None", ""));
